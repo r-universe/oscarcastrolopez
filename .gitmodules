@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "glm.deploy"]
+	path = glm.deploy
+	url = https://github.com/oscarcastrolopez/glm.deploy
+	shallow = true
+	registered = true
